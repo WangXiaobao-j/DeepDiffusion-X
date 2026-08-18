@@ -1,0 +1,3 @@
+IZA Zeolite Structure Database : https://www.iza-structure.org/databases/
+
+Predicted crystallography open database (PCOD): https://mwdeem.org/PCOD/
