@@ -2,6 +2,8 @@
 
 DeepDiffusion-X is a desktop platform for rapid and efficient prediction of direction-resolved self-diffusion coefficients, identification of diffusion anisotropy, and mechanistic interpretation of structure–diffusion relationships in zeolites directly from CIF crystal structures.
 
+<img src="images/workflow.png" width="800">
+
 ## Features
 
 The software provides four main functions:
@@ -51,7 +53,7 @@ python run_gui.py
 2. Select a working directory for the output
 3. Adjust the calculation parameters if required (defaults are listed below)
 4. Click "Run" and follow the progress in the "Run log" tab
-5. Inspect the results in the "Descriptors", "Diffusivity", "SHAP analysis" and "Pathways" tabs
+5. Inspect the results in the "Descriptors", "Diffusivity"
 
 
 ## File Structure
