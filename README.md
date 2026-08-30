@@ -65,7 +65,7 @@ python run_gui.py
 ├── core/
 │   ├── pipeline.py                  # End-to-end workflow orchestration
 │   ├── symmetry.py                  # CIF symmetry removal (P1 expansion)
-│   ├── pore_size.py                 # GCD and directional PLD
+│   ├── pore_size.py                 # Directional PLD
 │   ├── grid_generation.py           # Lennard-Jones potential energy grid
 │   ├── pore_channel_analyzer.py     # Dimensionality and diffusion barriers
 │   ├── descriptors.py               # Pathway descriptor extraction
